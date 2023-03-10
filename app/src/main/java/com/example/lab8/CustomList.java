@@ -60,7 +60,7 @@ public class CustomList extends ArrayAdapter<City> {
         return false;
     }
 
-    public void deleteCity(){
+    public void deleteCity(City city){
 
     }
 
